@@ -50,6 +50,35 @@ Helps you maintain well-structured changelogs following **Keep a Changelog** and
 ➡️ Marketplace: https://plugins.jetbrains.com/plugin/29474-changelog-pro  
 ➡️ Source: https://github.com/aboushaheed/changelogpro
 
+### ⭐ SonarQube Jira Issuer (Kotlin based)
+Generate Jira-ready ticket content from SonarQube issues.
+Connect to your SonarQube server, load issues by type and status, then export batched Jira ticket descriptions (with Jira wiki markup tables) to a local file. Ideal for teams that need to track technical debt in Jira without manual copy-pasting.
+
+
+**Highlights**
+- Secure token storage via IntelliJ PasswordSafe (OS keychain)
+- Browse and select SonarQube projects directly from the IDE
+- Filter issues by type (Bug, Code Smell, Vulnerability, Security Hotspot)
+- Automatic story-point calculation (1 SP = 1 working day)
+- Incremental export — already-exported issues are skipped on re-run
+- Jira wiki markup tables that render natively in Jira
+
+<p>
+  <a href="https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer">
+    <img alt="Marketplace Version" src="https://img.shields.io/jetbrains/plugin/v/30389" />
+  </a>
+  <a href="https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer">
+    <img alt="Marketplace Downloads" src="https://img.shields.io/jetbrains/plugin/d/30389" />
+  </a>
+  <a href="https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer">
+    <img alt="Marketplace Rating" src="https://img.shields.io/jetbrains/plugin/r/rating/30389" />
+  </a>
+</p>
+
+➡️ Marketplace: https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer 
+➡️ Source: https://github.com/aboushaheed/sonar-jira-issuer
+
+
 ---
 
 ## 🧰 Tech stack
