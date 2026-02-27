@@ -48,7 +48,9 @@ Helps you maintain well-structured changelogs following **Keep a Changelog** and
 </p>
 
 ➡️ Marketplace: https://plugins.jetbrains.com/plugin/29474-changelog-pro  
+
 ➡️ Source: https://github.com/aboushaheed/changelogpro
+
 
 ### ⭐ SonarQube Jira Issuer (Kotlin based)
 Generate Jira-ready ticket content from SonarQube issues.
@@ -75,7 +77,9 @@ Connect to your SonarQube server, load issues by type and status, then export ba
   </a>
 </p>
 
-➡️ Marketplace: https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer 
+
+➡️ Marketplace: https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer
+
 ➡️ Source: https://github.com/aboushaheed/sonar-jira-issuer
 
 
